@@ -509,7 +509,7 @@ a.active {
 }
 
 .Food-menu-wrapper1::before {
-  content: url(/images/section-menu/Menu.png);
+  content: url(../images/section-menu/Menu.png);
   text-transform: uppercase;
   position: absolute;
   top: 0%;
@@ -527,7 +527,7 @@ a.active {
 }
 
 .Food-menu-wrapper2::before {
-  content: url(/images/section-menu/burgerMain2.jpg);
+  content: url(../images/section-menu/burgerMain2.jpg);
   display: block;
   position: absolute;
   translate: -264% 39%;
@@ -535,7 +535,7 @@ a.active {
 }
 
 .Food-menu-wrapper3::before {
-  content: url(/images/section-menu/burgerMain3.jpg);
+  content: url(../images/section-menu/burgerMain3.jpg);
   display: block;
   position: absolute;
   translate: -270% 305%;
@@ -833,7 +833,7 @@ a.active {
 }
 
 .Food-app-img::before {
-  content: url(/images/Food-app/pngwing1.png);
+  content: url(../images/Food-app/pngwing1.png);
   position: absolute;
   top: 1;
   left: -80%;
@@ -854,7 +854,7 @@ a.active {
 }
 
 .Food-app-text::before {
-  content: url(/images/Food-app/pngwing3.png);
+  content: url(../images/Food-app/pngwing3.png);
   position: absolute;
   top: 30%;
   right: -50%;
@@ -889,7 +889,7 @@ a.active {
 }
 
 .AboutUs-block::before {
-  content: url(/images/AboutUs/2-2-burger-free-download-png\ 2.png);
+  content: url(../images/AboutUs/2-2-burger-free-download-png\ 2.png);
   position: absolute;
   top: -30%;
   left: -11%;
@@ -910,7 +910,7 @@ a.active {
 }
 
 .AboutUs-img::before {
-  content: url(/images/AboutUs/Group1000002255.png);
+  content: url(../images/AboutUs/Group1000002255.png);
   position: absolute;
   top: 50%;
   right: -2%;
@@ -994,7 +994,7 @@ a.active {
 .footer1 {
   width: 100%;
   height: auto;
-  background: url(/images/footer/wallp.png) center/cover no-repeat;
+  background: url(../images/footer/wallp.png) center/cover no-repeat;
   background-color: rgba(30, 30, 30, 0.7);
   background-blend-mode: darken;
   display: flex;
@@ -1183,6 +1183,8 @@ a.active {
   .Food-menu-body {
     padding: 50px 35px;
   }
+
+
 
 
   .subscribe-forms {
